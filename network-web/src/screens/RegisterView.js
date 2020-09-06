@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-export function RegisterView() {
+export default function RegisterView() {
     return <><h3 className="text-white pt-3">
             Register
         <div className="mb-3">
